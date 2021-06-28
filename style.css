@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.main-Heading {
+    font-size: 65px;
+    font-family: 'Chela One';
+    font-weight: 550;
+    font-style: oblique;
+    color: rgb(233 241 237);
+    margin-top: 0px;
+    text-align: left;
+    text-shadow: 2px 2px 8px #a8dbeb;
+    float: left;
+}
+
+body {
+    background-image: url(b1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Chela One';
+}
+
+.mainH {
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    top: 0px;
+}
+
+.login {
+    text-align: center;
+    font-weight: 550;
+    font-size: 75px;
+    color: #151d42;
+    text-shadow: 2px 2px 25px #151d42;
+}
+
+.LABEL {
+    font-size: 40px;
+    color: #eae9f0;
+    font-weight: 300;
+}
+
+.inp {
+    width: 95%;
+    height: 40px;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #ace4f1;
+    color: rgb(28, 28, 77);
+    font-weight: 200;
+    box-shadow: 2px 2px 5px #ace4f1;
+    font-size: 20px;
+}
+
+.LoginButton {
+    width: 200px;
+    height: 40px;
+    border-width: 0px;
+    border-color: #1f1f38;
+    background-color: #87888b;
+    box-shadow: 2px 2px 5px #87888b;
+    border-radius: 10px;
+}
+
+.CancelButton {
+    width: 200px;
+    height: 40px;
+    border-width: 0px;
+    border-color: #1f1f38;
+    background-color: #87888b;
+    box-shadow: 2px 2px 5px #87888b;
+    border-radius: 10px;
+}
+
+.forgot {
+    font-size: 15px;
+}
+
+.remember {
+    font-size: 15px;
+}
+
+.box {
+    border-width: medium;
+    border-color: black;
+    height: 12px;
+}
+
+.img {
+    border-radius: 400px;
+    height: 140px;
+}
+
+.inp:focus {
+    background-color: #7ac5f7;
+    outline: #4c92aa;
+    width: 100%;
+}
+
+.inp:hover {
+    width: 100%;
+    height: 45px;
+}
+
+.LoginButton:hover {
+    width: 250px;
+    height: 45px;
+}
+
+.CancelButton:hover {
+    width: 250px;
+    height: 45px;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(61, 36, 3);
+    font-weight: 250;
+}
+
+.link:hover {
+    font-size: 20px;
+    color: rgb(10, 85, 10);
+    font-weight: 300;
+}
+
